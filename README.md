@@ -17,9 +17,9 @@ OnTrack is a modern, intuitive productivity and tracking application designed to
 * **Architecture:** Scalable and optimized for performance.
 
 ## Status
-> **Status: In Active Development (Beta Coming Soon)**
+> **Status: Live / Available on Google Play**
 > 
-> OnTrack is currently undergoing rigorous testing and refinement. Stay tuned for our official beta release and public rollout.
+> OnTrack is officially launched and available for download. We continue to ship updates, performance improvements, and new features to enhance your experience.
 
 ---
 
