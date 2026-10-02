@@ -20,7 +20,8 @@ OnTrack is a modern, intuitive productivity and tracking application designed to
 > **Status: Live / Available on Google Play**
 > 
 > OnTrack is officially launched and available for download. We continue to ship updates, performance improvements, and new features to enhance your experience.
-
+**[OnTrack: Study & Focus Planner
+](https://play.google.com/store/apps/details?id=com.blazefr.ontrack)**
 ---
 
 ## Legal and Compliance
